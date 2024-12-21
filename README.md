@@ -24,6 +24,7 @@ Here’s the updated content with emojis for each component:
   - It reveals which pizzas are most popular among customers.  
   - The y-axis displays the pizza names, and the x-axis indicates the quantities sold.  
 
+![image](https://github.com/user-attachments/assets/e23d7ef9-8279-47c8-be9e-77645d002b00)
 
 
 
@@ -33,6 +34,7 @@ Here’s the updated content with emojis for each component:
   - It offers insights into customer preferences and trends for each category.  
   - The y-axis lists the pizza categories, while the x-axis represents the number of orders per category.
  
+![image](https://github.com/user-attachments/assets/d735537b-452b-492d-86a8-efa4f978956d)
 
 
   
@@ -41,6 +43,7 @@ Here’s the updated content with emojis for each component:
   - It helps uncover trends, seasonal patterns, and sales spikes during the observed period.  
   - The line plot represents the number of pizzas sold each day.  
 
+![image](https://github.com/user-attachments/assets/24a9cc84-7fc7-4754-a03a-2f6fbf817c75)
 
 
 
@@ -49,6 +52,7 @@ Here’s the updated content with emojis for each component:
   - It helps uncover which days see higher sales, identifying peak days and slower days.  
   - The line plot represents the number of pizzas sold each day of the week.  
 
+![image](https://github.com/user-attachments/assets/ec24e6e1-8e85-4b23-859a-457da1bbeb8e)
 
 
 
